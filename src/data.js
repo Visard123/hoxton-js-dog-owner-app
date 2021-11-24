@@ -1,4 +1,4 @@
-const data = [
+const dogs = [
     {
       id: 1,
       name: "Mr. Bonkers",
